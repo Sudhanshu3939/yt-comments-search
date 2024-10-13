@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+google-api-python-client
+polars
+nltk
+chromadb
+sentence-transformers
+fastapi[standard]
